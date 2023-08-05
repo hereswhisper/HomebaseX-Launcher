@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="download.png" />
+    <None Remove="fa88c8459b420456b1013b3064bfee3a.jpg" />
+    <None Remove="HomebaseX LBG.png" />
+    <None Remove="HomebaseX Logo.png" />
+    <None Remove="image1.png" />
+    <None Remove="image2.png" />
+    <None Remove="image3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FiddlerCore5" Version="5.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="SharpCompress" Version="0.33.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="download.png" />
+    <Resource Include="fa88c8459b420456b1013b3064bfee3a.jpg" />
+    <Resource Include="HomebaseX LBG.png" />
+    <Resource Include="HomebaseX Logo.png" />
+    <Resource Include="image1.png" />
+    <Resource Include="image2.png" />
+    <Resource Include="image3.png" />
+  </ItemGroup>
+
+</Project>

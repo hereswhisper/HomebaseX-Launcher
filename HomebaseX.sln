@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomebaseX", "HomebaseX\HomebaseX.csproj", "{7A4F85AD-23C9-4F75-9BF9-753E17D2C6AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomebaseXUpdater", "HomebaseXUpdater\HomebaseXUpdater.csproj", "{43E1E632-0B5C-4B6E-A4E2-EFBE31106D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4F85AD-23C9-4F75-9BF9-753E17D2C6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4F85AD-23C9-4F75-9BF9-753E17D2C6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4F85AD-23C9-4F75-9BF9-753E17D2C6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4F85AD-23C9-4F75-9BF9-753E17D2C6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E1E632-0B5C-4B6E-A4E2-EFBE31106D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E1E632-0B5C-4B6E-A4E2-EFBE31106D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E1E632-0B5C-4B6E-A4E2-EFBE31106D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E1E632-0B5C-4B6E-A4E2-EFBE31106D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4916B535-05F0-4D8D-AB0C-36E8120D0284}
+	EndGlobalSection
+EndGlobal
