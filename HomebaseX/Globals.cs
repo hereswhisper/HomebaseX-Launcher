@@ -18,6 +18,6 @@ namespace HomebaseX
         public static string Username = "";
         public static string Version = "1.8-CL-3724489";
         public static string Role = "";
-        public static string LVersion = "1.0-CL-000001";
+        public static string LVersion = "1.0-CL-000002";
     }
 }

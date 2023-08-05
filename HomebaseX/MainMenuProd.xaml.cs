@@ -72,6 +72,10 @@ namespace HomebaseX
                     RoleText.Foreground = Brushes.Cyan;
                     RoleText.Content = "Verified";
                     break;
+                case "ThatDefault":
+                    RoleText.Foreground = Brushes.Red;
+                    RoleText.Content = "ThatDefault";
+                    break;
                 default:
                     RoleText.Foreground = Brushes.White;
                     RoleText.Content = "Player";
