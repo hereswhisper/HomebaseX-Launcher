@@ -1,2 +1,2 @@
 # HomebaseX-Launcher
-Launcher for HomebaseX
+Launcher for HomebaseX, redesign coming soon
